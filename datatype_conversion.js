@@ -25,10 +25,14 @@
 // let booleanIsLoggedIn = Boolean(isLoggedIn);
 // console.log(booleanIsLoggedIn);
 
-let isLoggedIn = "pradum";
-let booleanIsLoggedIn = Boolean(isLoggedIn);
-console.log(booleanIsLoggedIn);
+// let isLoggedIn = "pradum";
+// let booleanIsLoggedIn = Boolean(isLoggedIn);
+// console.log(booleanIsLoggedIn);
 
 // 1 => true, 0=> false
 // "" => false
 // "pradum" => true
+
+console.log("2" + 3);
+console.log("2" + 3 + 4);
+console.log(2 + 3 + "4");
